@@ -1,0 +1,8 @@
+@startuml Acorn Atom
+class RAM
+class ROM
+entity entity
+@enduml
+
+'mv .vscode-server/extensions/jebbs.plantuml-2.17.5/plantuml.jar .vscode-server/extensions/jebbs.plantuml-2.17.5/plantuml-2.17.5.jar
+'cp .vscode-server/extensions/jebbs.plantuml-2.17.5/plantuml-1.2023.9.jar .vscode-server/extensions/jebbs.plantuml-2.17.5/plantuml.jar
